@@ -1,6 +1,6 @@
 
 # Human Action Recognition using Detectron2 and LSTM
-** the colab notebook: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mr3wJUeS1mFJVgMoo3TgnyMSmwPtwCvR?usp=sharing)**
+** the colab notebook: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mr3wJUeS1mFJVgMoo3TgnyMSmwPtwCvR?usp=sharing)
 # Remainder
 Please Install the new version of the libraries mentioned in the requirements.txt beacuse they are updating as versions are going on
 
